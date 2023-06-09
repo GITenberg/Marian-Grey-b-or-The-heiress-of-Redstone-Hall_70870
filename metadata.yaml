@@ -1,5 +1,8 @@
 _repo: Marian-Grey-b-or-The-heiress-of-Redstone-Hall_70870
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70870-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, Mary Jane
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70870#Marian-Grey-b-or-The-heiress-of-Redstone-Hall
 gutenberg_issued: '2023-05-27'
 identifiers:
   gutenberg: '70870'
